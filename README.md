@@ -2,7 +2,7 @@
 
 Diagnóstico completo do computador num painel só: CPU, GPU, memória, discos, bateria e processos em tempo real, com **IA local (Ollama)** para explicar o que está acontecendo.
 
-> 📸 _Print do painel de monitoramento_
+![Diagnóstico de hardware em tempo real](docs/hardware.png)
 
 ## Sobre
 
@@ -17,6 +17,12 @@ Quando um PC fica lento ou esquenta, a investigação costuma passar por quatro 
 - **Gerenciador de processos** com explicador de executáveis: o que é cada processo e se é seguro encerrar
 - **Análise com IA local** via Ollama, com pesquisa na web opcional (SearXNG ou a busca do Ollama)
 - **Central de atualizações**: Windows Update pendente, BIOS, driver de vídeo e build do sistema
+
+## Telas
+
+<table>
+<tr><td width="50%" align="center"><img src="docs/processos.png" alt="Gerenciador de processos e maiores consumidores" /><br /><sub>Gerenciador de processos e maiores consumidores</sub></td><td width="50%" align="center"><img src="docs/discos.png" alt="Saúde dos discos com atributos S.M.A.R.T." /><br /><sub>Saúde dos discos com atributos S.M.A.R.T.</sub></td></tr>
+</table>
 
 ## Requisitos
 

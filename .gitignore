@@ -9,3 +9,4 @@ coverage/
 .env
 .env.*
 database.sqlite*
+diagnostics.db
